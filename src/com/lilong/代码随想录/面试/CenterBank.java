@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @date :2023-10-19-13:40
  * @description :
  */
-public class 中信银行 {
+public class CenterBank {
     /**
      * 2
      * 1 2
