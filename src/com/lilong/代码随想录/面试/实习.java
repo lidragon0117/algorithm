@@ -55,7 +55,7 @@ public class 实习 {
     }
 
     public static void main(String[] args) {
-
+        System.out.println('b'+1);
 
     }
 }
