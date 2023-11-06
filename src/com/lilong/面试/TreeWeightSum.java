@@ -1,4 +1,4 @@
-package com.lilong.代码随想录.面试;
+package com.lilong.面试;
 
 import java.util.Scanner;
 
@@ -7,8 +7,6 @@ import java.util.Scanner;
  * @date :2023-10-21-9:51
  * @description :  这个是小美一棵有根数 根节点为1号节点
  */
-import java.util.Scanner;
-
 
 
 public class TreeWeightSum {

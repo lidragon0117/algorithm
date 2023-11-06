@@ -1,8 +1,6 @@
-package com.lilong.代码随想录.面试;
+package com.lilong.面试;
 
-import java.util.HashMap;
 import java.util.Scanner;
-import java.util.Stack;
 
 /**
  * @author :lilong

@@ -1,7 +1,5 @@
-package com.lilong.代码随想录.面试;
+package com.lilong.面试;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 /**
